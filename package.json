@@ -1,0 +1,17 @@
+{
+  "name": "acervo-maker-stl",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "npm --prefix central-prime-clone run build",
+    "dev": "npm --prefix central-prime-clone run dev",
+    "preview:cloudflare": "wrangler dev",
+    "deploy": "npm run build && wrangler deploy"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "wrangler": "^4.168.0"
+  }
+}

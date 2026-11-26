@@ -1,0 +1,7 @@
+{
+  "name": "stl-pro",
+  "compatibility_date": "2026-11-26",
+  "assets": {
+    "directory": "./central-prime-clone/dist"
+  }
+}
