@@ -1,0 +1,412 @@
+[
+  {
+    "path": "garantia-14-dias.webp",
+    "bytes": 26754,
+    "sha256": "5F5CFB9758C0DCFACD8057E187159B7D9A6CBB048D1AC7F149ADD8CFD5F5701F"
+  },
+  {
+    "path": "plan_showcase.webp",
+    "bytes": 43734,
+    "sha256": "76C8FECAA9452B83268A6294931F95B743E743BBCA29FDA69CE8F2827055EBD5"
+  },
+  {
+    "path": "bonuses/caneca_moletom.webp",
+    "bytes": 13798,
+    "sha256": "36DFC941F721C6B93AC3097DEF24371F8E6276A9686895FFFC558C774DFE1521"
+  },
+  {
+    "path": "bonuses/canecas_gamer.webp",
+    "bytes": 17414,
+    "sha256": "869343DDC8D23D2F16FF53C7EB70C7DFCA7C22FD9C85F3005B49372A01EF5665"
+  },
+  {
+    "path": "bonuses/canecas_times.webp",
+    "bytes": 21630,
+    "sha256": "B2C12D236272CBA4D0E4C9165A9B4D1B5500F58A4F97371CEAA7FC2BFDC208E8"
+  },
+  {
+    "path": "bonuses/estadios_3d.webp",
+    "bytes": 16660,
+    "sha256": "DAE9F2402993F68C2D4006AB40638562C46EDF2286161E1F0CF5C5D96951422C"
+  },
+  {
+    "path": "bonuses/gta6_vice_city.webp",
+    "bytes": 21186,
+    "sha256": "84A5EBD8668D15ACBBAB9B57B7E1FDC3D93A2FA389B9B4410356B0028AD9F0CD"
+  },
+  {
+    "path": "bonuses/lego_bonus.webp",
+    "bytes": 14764,
+    "sha256": "4CCF51E1A40154E3FFA39C3C86782E7188B94310A1005BF23BFCA5AA4D2AE2BA"
+  },
+  {
+    "path": "bonuses/luminarias_bonus.webp",
+    "bytes": 11064,
+    "sha256": "2D87987F931BAA15F95EF19F1690096DCD85EF70C41E71062FFC8D7D987D4D6C"
+  },
+  {
+    "path": "bonuses/minecraft_bonus.webp",
+    "bytes": 8390,
+    "sha256": "64FC1E53C4C791ABF28D32D69110B108F9FC55CEB066775255151439A961F423"
+  },
+  {
+    "path": "bonuses/natal.webp",
+    "bytes": 9032,
+    "sha256": "FA3EEF9FCD0415E00D12A3A66C7870F957A1E1FB303FEE58A31970B6092CC36F"
+  },
+  {
+    "path": "bonuses/porta_copos_monster.webp",
+    "bytes": 19492,
+    "sha256": "03B8EA6D9A1E749C5E2B9679DFD3F988D9F09DB8CE08057D27B578B76C40D888"
+  },
+  {
+    "path": "gallery/c1_1.webp",
+    "bytes": 3942,
+    "sha256": "2D8302D44DF5331FE5F37D56852944481C5211949CA4E8DC52D6BEDBC602BEA6"
+  },
+  {
+    "path": "gallery/c1_2.webp",
+    "bytes": 3896,
+    "sha256": "DA5A1ADE538E3417D9030988258C339B11AE6BCBFFF697DBA4A5301FAAE2A0FD"
+  },
+  {
+    "path": "gallery/c1_3.webp",
+    "bytes": 4268,
+    "sha256": "45CB8B21EF904FA7D4CE2005070E91C840606063FA216AB88CC39EFC80C28D73"
+  },
+  {
+    "path": "gallery/c1_4.webp",
+    "bytes": 5030,
+    "sha256": "103A5D745A182B55CB6DDC9538C850B84725F380B6E4FAD0E7803DEC7ACBAD6A"
+  },
+  {
+    "path": "gallery/c1_5.webp",
+    "bytes": 6984,
+    "sha256": "64540B67C907DE65F74D18E187E4106E84504B7C0C9EB9891B64064010EAB009"
+  },
+  {
+    "path": "gallery/c1_6.webp",
+    "bytes": 7694,
+    "sha256": "D129A86BFFCEC85C9922F071DD378E9FB61BDCAB7B46937FA4EC40F37627C167"
+  },
+  {
+    "path": "gallery/c1_7.webp",
+    "bytes": 8216,
+    "sha256": "CB3B23F55E3FE6437F966FECF34D135B497BCCE2C55BE418132AF513FF97E8D6"
+  },
+  {
+    "path": "gallery/c2_1.webp",
+    "bytes": 5686,
+    "sha256": "92B4C38AEEE55E0FDE14370A76E990B92873B38C7F6B73E998ED71E1339AD325"
+  },
+  {
+    "path": "gallery/c2_10.webp",
+    "bytes": 11950,
+    "sha256": "43E47045CC6A6FAB432DC140EB472524B201AEE90F446EEAA495F578BB5E55A0"
+  },
+  {
+    "path": "gallery/c2_2.webp",
+    "bytes": 11644,
+    "sha256": "038B0A8D8DA4270C12F92575BB0F6291804212A95BE38881611B1863B3DD0F8C"
+  },
+  {
+    "path": "gallery/c2_3.webp",
+    "bytes": 6566,
+    "sha256": "40A58F5007B4DF12851A7458C447E4DAE59ECA0E277FA92668A74DE0EE991E55"
+  },
+  {
+    "path": "gallery/c2_4.webp",
+    "bytes": 8616,
+    "sha256": "30E30A20080EFFCABC964AECF4726DAF554283D895C87C7A205CD4FBB715D4C8"
+  },
+  {
+    "path": "gallery/c2_5.webp",
+    "bytes": 10212,
+    "sha256": "43956EAD382EFB9160E5B86437DC14078E7397340D57BA28D0EE6C9ADC307B2F"
+  },
+  {
+    "path": "gallery/c2_6.webp",
+    "bytes": 7962,
+    "sha256": "2109073D913736FB40F2CAEB8684DD0A3D46D375FC2EEAB76AA6085F116494A5"
+  },
+  {
+    "path": "gallery/c2_7.webp",
+    "bytes": 12346,
+    "sha256": "7BBD53A683BB4D13BCA7F6B4C4B3436390A4E0F2144EBAD7315CC8B3D7F73D6E"
+  },
+  {
+    "path": "gallery/c2_8.webp",
+    "bytes": 8102,
+    "sha256": "0C022CA0BADF7BBB156914AD614B02E168E0B0FDE4583933F683E534D237B3A4"
+  },
+  {
+    "path": "gallery/c2_9.webp",
+    "bytes": 16354,
+    "sha256": "DD9EBCE3453608054AED8FC76624DE9A7D6E7585671B69530150E92B6231F197"
+  },
+  {
+    "path": "gallery/c3_1.webp",
+    "bytes": 7698,
+    "sha256": "832A31A77265F44D3B0F6F7216FE0D3707F39F9D9CFEEFB11484902272C3A9BC"
+  },
+  {
+    "path": "gallery/c3_2.webp",
+    "bytes": 8712,
+    "sha256": "49EC1A87B084D95E114B77F541F896A3794C7EFA46107F708765FEC68A75DB2D"
+  },
+  {
+    "path": "gallery/c3_3.webp",
+    "bytes": 6718,
+    "sha256": "B350D1CA3AB8EAA2691B3E767F33598FAC6AEDC01C62178685BA608DD76EFF95"
+  },
+  {
+    "path": "gallery/c3_4.webp",
+    "bytes": 7696,
+    "sha256": "6533EE6AF001919B90FDCAAB141457D7654D6568655E2CCDE00327AB5D586E32"
+  },
+  {
+    "path": "gallery/c3_5.webp",
+    "bytes": 9456,
+    "sha256": "D776696A7CE88DDF8E1D40D0889841932C5362F46E9C61D54BAE740E109E7622"
+  },
+  {
+    "path": "gallery/c3_6.webp",
+    "bytes": 5640,
+    "sha256": "5E112469FC6A9B534092F3C5F5E561A698F78C7DDD275985D463A18A9D86207C"
+  },
+  {
+    "path": "gallery/c3_7.webp",
+    "bytes": 4528,
+    "sha256": "C8A4050E13F83083A08F97BF748ED7C0883877362BB441862E0B9DD00E39B14C"
+  },
+  {
+    "path": "gallery/c3_8.webp",
+    "bytes": 7754,
+    "sha256": "C2C7D85BEA89BFCD7520E187AA4241E06370C43021442E45E1DA8CF6D2B6F677"
+  },
+  {
+    "path": "lego/model_1.webp",
+    "bytes": 8296,
+    "sha256": "38A44C64AED8536294166E23204A8AC6507CD7E9F5E2ADDC5ACB897065774C2D"
+  },
+  {
+    "path": "lego/model_2.webp",
+    "bytes": 12320,
+    "sha256": "63C3E004640C92670D6B7A6BC2B00FF570A4BED210E95161ED51AD4624857066"
+  },
+  {
+    "path": "lego/model_3.webp",
+    "bytes": 10980,
+    "sha256": "45E2B598424FCC1C85885D22D9C0A4DC01AB1156B0DFA5B1900C4B33BECD5C6B"
+  },
+  {
+    "path": "lego/model_4.webp",
+    "bytes": 11382,
+    "sha256": "B61C449384C2A421041C9917A36FF4DE5B31270407E9B0FDF632B5AA5747A4BA"
+  },
+  {
+    "path": "lego/model_5.webp",
+    "bytes": 12710,
+    "sha256": "D22FA172C324096A0E207DBA2C258B1D014304617745D4990139B3F88DF89E51"
+  },
+  {
+    "path": "lego/model_6.webp",
+    "bytes": 10626,
+    "sha256": "62D87FB71654F2E699389FCF02646F8357BBCFCCCE215EE0A3ED35DD366F7B06"
+  },
+  {
+    "path": "lego/model_7.webp",
+    "bytes": 10540,
+    "sha256": "ADE8DBD7F71ACAEAAF58CA0976F714F8D57550BC1456850EAF60B6B26B2539DB"
+  },
+  {
+    "path": "lego/model_8.webp",
+    "bytes": 11068,
+    "sha256": "6263495E9AD1CAD9A76801E912CA3CBCA643B6434DFBCE96BC7C6E57E8EC92DF"
+  },
+  {
+    "path": "lego/model_9.webp",
+    "bytes": 10396,
+    "sha256": "CC45F97EB06439D1252CD36F4472423AEF29DA53208DF44C036EBBF4E9962F8D"
+  },
+  {
+    "path": "models/flash_knuckles.webp",
+    "bytes": 10478,
+    "sha256": "D93579CF737CCC4AA3A590E046E174F204967A4DCDAFD464E26E9E1596D005FC"
+  },
+  {
+    "path": "models/gotenks.webp",
+    "bytes": 18848,
+    "sha256": "E2E06948046D917B0EBFCA7896178B07F4137F98665CCBF8A000FDA14C4D22A7"
+  },
+  {
+    "path": "models/gta6_collection.webp",
+    "bytes": 56402,
+    "sha256": "B9C280CC0BF14839F1D5FB5D092826E2B7902B110DE99CDE13ABD3CC0B5CCE52"
+  },
+  {
+    "path": "models/mario_captain.webp",
+    "bytes": 9888,
+    "sha256": "050AA49C0393587BA3669D195FB8974A27F73AF39499C1B81E2A175358D1D338"
+  },
+  {
+    "path": "models/moon_knight.webp",
+    "bytes": 13298,
+    "sha256": "04A3E9D549EDA525D4DE656CB2B060D862132B6658C2FA208C07EC0B8DAD32CF"
+  },
+  {
+    "path": "models/shadow.webp",
+    "bytes": 8814,
+    "sha256": "F248013F74FC51ADD1C5DDEAD9233F6E979552F6A9350B06CF4ADE2E2C20C2AA"
+  },
+  {
+    "path": "models/spawn.webp",
+    "bytes": 12626,
+    "sha256": "750387C4687BFF7B87274EA7BF431BAA86F878012FE56F8112C4D51A2F8012B3"
+  },
+  {
+    "path": "models/sub_zero.webp",
+    "bytes": 9248,
+    "sha256": "9CC4DCC5C5A88B7FDAD0F7AD88753D40FCD1CF787C55A30C981B69CD2104B12B"
+  },
+  {
+    "path": "models/super_sonic_goku.webp",
+    "bytes": 10124,
+    "sha256": "4555B67FDF4E5B131FD261A90EDAC1752A146D561B8A41A54E13DC0DD8547DF6"
+  },
+  {
+    "path": "models/vegeta_kid.webp",
+    "bytes": 18438,
+    "sha256": "90548DDAD8A7E4EC1299038122F1EBF1919B8E71A80F5E260F3439EBB77BF414"
+  },
+  {
+    "path": "niches/amigurumi.webp",
+    "bytes": 8808,
+    "sha256": "2D7E1BF3320BF337650ECAF3E1C64FDA6256235C8ED69FA4AB40153A0821D81F"
+  },
+  {
+    "path": "niches/articulados.webp",
+    "bytes": 7428,
+    "sha256": "54E7ED17C5409ADE6116234B7732F4926E42DE4EE435EBC9D2ABD79168415140"
+  },
+  {
+    "path": "niches/chaveiros.webp",
+    "bytes": 16644,
+    "sha256": "D5547A24BC837D17F09550F900FD6E88F5EB500291D92702809DE37429215334"
+  },
+  {
+    "path": "niches/copa.webp",
+    "bytes": 8950,
+    "sha256": "3BA7F87F37525F1C780412E579E46518682B532A9EAEF13D7884CD380771B4A6"
+  },
+  {
+    "path": "niches/cosplay.webp",
+    "bytes": 8242,
+    "sha256": "E8EC1BFDD4C6A6BD9DE2520C1372663B82922986C84A8C4CBDA8879684167104"
+  },
+  {
+    "path": "niches/desenhos.webp",
+    "bytes": 10438,
+    "sha256": "9DBFECB4B723E2D4BCD90E34CE735F16B334BA2B07C201C37AB2BDABFC03948E"
+  },
+  {
+    "path": "niches/herois.webp",
+    "bytes": 16472,
+    "sha256": "4608FF1927455C1E02BEF928EA802D72FC1856B6A473934AF60A01DBCF990A88"
+  },
+  {
+    "path": "niches/luminarias.webp",
+    "bytes": 10044,
+    "sha256": "183D8F86A91952CC0DDE759565F932AAF25143CE0C275716C95DBCD1DF48F88D"
+  },
+  {
+    "path": "niches/mascotes.webp",
+    "bytes": 11454,
+    "sha256": "59669EE8FC663F01C763EB68EA202A65BE57BFB033E2C6E4B66CEAC16DE3F98E"
+  },
+  {
+    "path": "niches/pokemon.webp",
+    "bytes": 13828,
+    "sha256": "8F02E5A4EB6FBB1887956DB41FF4DC186214FDBB5735D258D5394BB3E54842DF"
+  },
+  {
+    "path": "niches/veiculos.webp",
+    "bytes": 11034,
+    "sha256": "EE6FB10A7573B39B3678DC663335A6E478268935828835F2A9EE903C75495934"
+  },
+  {
+    "path": "proofs/proof_1.webp",
+    "bytes": 31006,
+    "sha256": "D054D80AE5477D2B91B335C536E69775738B2E9DE30FBB825317862C3EF4031A"
+  },
+  {
+    "path": "proofs/proof_2.webp",
+    "bytes": 32146,
+    "sha256": "D30C9AE77F816D5D30122EB73EDF08513AA028332D30903449D88C65EF5D9796"
+  },
+  {
+    "path": "proofs/proof_3_moletom.webp",
+    "bytes": 35652,
+    "sha256": "D49525D03DD3DE870E3BCAFDEE1B732693DFF0B8788292C07FDD1B1351CE0C58"
+  },
+  {
+    "path": "proofs/proof_4_new.webp",
+    "bytes": 44278,
+    "sha256": "C368B188E35691D63123C723355C372520EF3BD4F8E640644A2363993949A8AE"
+  },
+  {
+    "path": "row3/model_1.webp",
+    "bytes": 36232,
+    "sha256": "C38638DEF636DF57E4DF5E6A3A9A5EEB0589AD01AC0E44CB21060BB6BAE0241D"
+  },
+  {
+    "path": "row3/model_2.webp",
+    "bytes": 40014,
+    "sha256": "7FAF472897D7525852BCF3B02F109F90E529C2A72FB4E781C425BD5870C138B3"
+  },
+  {
+    "path": "row3/model_3.webp",
+    "bytes": 22224,
+    "sha256": "F372CBF5D648371B12E16B3666AEC0D8D35429B1D0CB494BFE183C42DA06CBC8"
+  },
+  {
+    "path": "row3/model_4.webp",
+    "bytes": 23970,
+    "sha256": "784E715AE047419F8C2ACB26479AA2BA1ADCB253D2D07A1BA2E5F108AD883D8C"
+  },
+  {
+    "path": "row3/model_5.webp",
+    "bytes": 25272,
+    "sha256": "05A1AF2B27DE0B1A33F65F3D453DA31C7AAB163806364886F5DEE3953022CEFC"
+  },
+  {
+    "path": "testimonials/depoimento_1.webp",
+    "bytes": 22176,
+    "sha256": "70CF06393D6BC9F3C365E1ACD662BE7190DBAEF6F09915F4E3D72B31EC0B10E2"
+  },
+  {
+    "path": "testimonials/depoimento_2.webp",
+    "bytes": 22404,
+    "sha256": "5048F56E98BD70ECD4D23BC5907D08CA0D1A3B72A2CA3B27190B39549488E65D"
+  },
+  {
+    "path": "testimonials/depoimento_3.webp",
+    "bytes": 23238,
+    "sha256": "6B80EAD8919E1AF5E330E42AC8C81F3480CFD42F4C8A66DB2E3A8635FB2C23B8"
+  },
+  {
+    "path": "testimonials/depoimento_4.webp",
+    "bytes": 33688,
+    "sha256": "252A56918B4F018FD414637F6BB2E57AB6B4F457796749B3A0639D6AEFCA9F7E"
+  },
+  {
+    "path": "testimonials/depoimento_5.webp",
+    "bytes": 32554,
+    "sha256": "491D9B64E314B29F6CBFE9D56F43F6A925F07C1D804446F536E7D20B57D941E4"
+  },
+  {
+    "path": "testimonials/depoimento_6.webp",
+    "bytes": 36990,
+    "sha256": "765F1410C98348B933695FE85B8955A90419A67E25820DD0271BBB840CE831B3"
+  }
+]

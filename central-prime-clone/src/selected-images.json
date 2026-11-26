@@ -1,0 +1,17 @@
+[
+  {
+    "original":"models/mario_captain.webp",
+    "file":"selected/mario_captain.jpg",
+    "source":"https://www.etsy.com/listing/4464298151/captain-mario-fusion-style-fan-art-3d"
+  },
+  {
+    "original":"models/shadow.webp",
+    "file":"selected/shadow-front.png",
+    "source":"https://makerworld.com/en/models/1005370-shadow-classic"
+  },
+  {
+    "original":"models/spawn.webp",
+    "file":"selected/spawn.jpg",
+    "source":"https://sethers.com/products/spawn-mini-figure-3d-printer-model-files"
+  }
+]

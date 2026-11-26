@@ -1,0 +1,37 @@
+CENTRAL PRIME 3D — CÓPIA EDITÁVEL
+
+Abra a pasta dist. Ela contém todos os arquivos necessários para a hospedagem.
+
+PREÇOS E CHECKOUTS
+Edite dist/config.js:
+- planos.basico: R$ 10,00
+- planos.pro: R$ 37,00
+- checkoutUrl: cole o seu link HTTPS de compra de cada plano.
+Os dois planos oferecem exatamente os mesmos itens, incluindo os 20 bônus.
+Enquanto checkoutUrl estiver vazio, o botão informa que a compra está indisponível.
+
+VÍDEOS VTURB
+Há dois espaços vazios: principal (vertical 9:16) e areaMembros (horizontal).
+No mesmo config.js, preencha embedUrl com a URL de incorporação ou embedHtml
+com o código completo da VTurb entre as crases. Use apenas uma das opções.
+Nenhum vídeo ou pôster da página de referência foi incluído.
+
+VISUALIZAR LOCALMENTE
+Abra index.html com dois cliques. Não é necessário Node nem servidor local.
+O index.html na pasta STL-PRO, nesta pasta do projeto ou dentro de dist funciona.
+Ao baixar o ZIP, extraia todos os arquivos antes de abrir o index.html.
+Para hospedagem convencional, envie o conteúdo de dist à raiz do domínio.
+
+ARQUIVOS
+dist/assets/app.js: conteúdo e carrosséis da página de referência adaptados.
+dist/assets/custom-components.js: planos, espaços de vídeo e dúvidas frequentes.
+dist/assets/custom.css: estilos dos ajustes.
+dist/assets/original.css: estilos preservados da referência.
+dist/assets/: imagens locais.
+dist/assets/page.bundle.js: script único compatível com abertura direta do HTML.
+Após alterar app.js ou custom-components.js, execute node build-preview.mjs.
+Alterações em config.js ou nos estilos aparecem diretamente ao recarregar a página.
+
+Os pixels, rastreadores e links de pagamento do site original foram removidos.
+Textos, imagens, depoimentos, nomes e condições da oferta foram mantidos da
+referência enviada. Revise esses elementos antes de divulgar sua própria oferta.

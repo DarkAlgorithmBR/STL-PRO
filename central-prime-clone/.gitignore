@@ -1,0 +1,9 @@
+reference/*
+!reference/original.css
+node_modules/
+*.log
+*.tar.gz
+*.zip
+.sites-runtime/
+
+.openai/
