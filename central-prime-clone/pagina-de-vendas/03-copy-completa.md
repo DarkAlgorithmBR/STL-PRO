@@ -1,160 +1,716 @@
-# Copy aplicada
+ACERVO MAKER STL
 
-Descubra uma biblioteca de STL que amplia seu catálogo de impressão 3D, sem precisar modelar cada peça do zero.
+Mais de 150 mil arquivos STL para transformar sua impressora 3D em uma
 
-As coleções por categoria e os 20 bônus facilitam escolher o próximo modelo. Baixe o arquivo, prepare no fatiador e teste antes de ampliar a produção.
+ 
 
-Do arquivo à peça
+fábrica de possibilidades!
 
-Encontre novas possibilidades
+ 
 
-para a sua próxima impressão.
 
-Observe os formatos, os detalhes e as aplicações. Escolha um modelo, prepare no fatiador e veja como ele se encaixa no seu catálogo.
 
-Quero acessar a biblioteca
+Imprima colecionáveis, luminárias, peças articuladas, acessórios gamer, miniaturas e muito mais, sem precisar modelar cada projeto do zero.
 
-Seu próximo produto
+QUERO MEU ACERVO STL
 
-pode começar aqui.
+A partir de R$ 10,00 • Pagamento único • Garantia de 14 dias.
 
-Colecionáveis, peças para o setup e objetos temáticos: veja algumas das possibilidades para selecionar sua próxima impressão.
+✓
 
-Olhe para as peças pensando no público que você quer atender. Depois, escolha uma para testar.
+Mais de 150 mil arquivos STL.
 
-Quero acessar a biblioteca
+✓
 
-Escolher o que imprimir não precisa ser
+Modelos organizados por categorias.
 
-uma busca sem fim.
+✓
 
-Quando os modelos estão espalhados, a próxima impressão acaba ficando para depois.
+20 coleções bônus no plano Pro.
 
-Pastas cheias de STL
+Veja o que você poderá produzir
 
-Abas abertas sem decidir
+ 
 
-Modelos que ficam esquecidos
+com sua impressora 3D
 
-Filamento gasto sem um teste
+ 
 
-Dúvida sobre a próxima peça
 
-Seu catálogo começa com uma escolha, não com mais uma pasta de downloads.
 
-Na Central Prime 3D, você parte de uma categoria, compara os modelos e escolhe o que faz sentido produzir com a sua estrutura.
+De pequenos chaveiros a colecionáveis detalhados, descubra milhares de projetos para dar vida às suas próximas impressões.
 
-Escolha uma categoria.
+GOTENKS KID
 
-Dê forma ao próximo produto.
+MOON KNIGHT
 
-Quero acessar a biblioteca
+FLASH KNUCKLES
 
-Uma biblioteca.
+SPAWN
 
-Vários caminhos para o seu catálogo.
+SHADOW
 
-Explore decoração, colecionáveis, acessórios e peças temáticas. Você escolhe qual linha combina com a sua produção.
+VEGETA KID
 
-Quero acessar a biblioteca
+MARIO CAPTAIN AMERICA
 
-Antes de produzir,
+SUPER SONIC GOKU
 
-observe como as peças são apresentadas.
+SUB-ZERO
 
-As referências de marketplaces ajudam a observar fotos, usos e tipos de produto. Use esses exemplos como ponto de partida para a sua pesquisa.
+GOTENKS KID
 
-Compare as possibilidades com o público e o preço que fazem sentido para você.
+MOON KNIGHT
+
+FLASH KNUCKLES
+
+SPAWN
+
+SHADOW
+
+VEGETA KID
+
+MARIO CAPTAIN AMERICA
+
+SUPER SONIC GOKU
+
+SUB-ZERO
+
+LEGO BATMAN (DARK KNIGHT)
+
+LEGO SUPERMAN
+
+LEGO HOMEM-ARANHA
+
+LEGO HOMEM DE FERRO
+
+LEGO DARTH VADER
+
+LEGO VENOM
+
+LEGO O MÁSCARA
+
+LEGO ROBIN
+
+LEGO BATMAN CLÁSSICO
+
+LEGO BATMAN (DARK KNIGHT)
+
+LEGO SUPERMAN
+
+LEGO HOMEM-ARANHA
+
+LEGO HOMEM DE FERRO
+
+LEGO DARTH VADER
+
+LEGO VENOM
+
+LEGO O MÁSCARA
+
+LEGO ROBIN
+
+LEGO BATMAN CLÁSSICO
+
+CANECA PLAYSTATION 3D
+
+CANECA COD MODERN WARFARE
+
+CANECA GTA VI 3D
+
+CANECA MINECRAFT TNT 3D
+
+CANECA MORTAL KOMBAT 3D
+
+CANECA PLAYSTATION 3D
+
+CANECA COD MODERN WARFARE
+
+CANECA GTA VI 3D
+
+CANECA MINECRAFT TNT 3D
+
+CANECA MORTAL KOMBAT 3D
+
+CANECA PLAYSTATION 3D
+
+CANECA COD MODERN WARFARE
+
+CANECA GTA VI 3D
+
+CANECA MINECRAFT TNT 3D
+
+CANECA MORTAL KOMBAT 3D
+
+CANECA PLAYSTATION 3D
+
+CANECA COD MODERN WARFARE
+
+CANECA GTA VI 3D
+
+CANECA MINECRAFT TNT 3D
+
+CANECA MORTAL KOMBAT 3D
+
+SUPORTE PS5 GTA VI
+
+SUPORTE HEADSET GTA VI
+
+SUPORTE CELULAR GTA VI
+
+LIGHTBOX GTA VI
+
+PLACA NEON VICE CITY
+
+JACARÉ MACCA GTA VI
+
+SUPORTE PS5 GTA VI
+
+SUPORTE HEADSET GTA VI
+
+SUPORTE CELULAR GTA VI
+
+LIGHTBOX GTA VI
+
+PLACA NEON VICE CITY
+
+JACARÉ MACCA GTA VI
+
+SUPORTE PS5 GTA VI
+
+SUPORTE HEADSET GTA VI
+
+SUPORTE CELULAR GTA VI
+
+LIGHTBOX GTA VI
+
+PLACA NEON VICE CITY
+
+JACARÉ MACCA GTA VI
+
+SUPORTE PS5 GTA VI
+
+SUPORTE HEADSET GTA VI
+
+SUPORTE CELULAR GTA VI
+
+LIGHTBOX GTA VI
+
+PLACA NEON VICE CITY
+
+JACARÉ MACCA GTA VI
+
+Escolha uma peça e imagine sua próxima impressão.
+
+QUERO MEU ACERVO STL
+
+Chega de perder mais tempo procurando arquivos do que imprimindo.
+
+Você encontra uma peça interessante, abre várias abas, salva alguns modelos e, quando percebe, ainda nem começou a imprimir.
+
+Com o Acervo Maker STL, você encontra mais de 150 mil arquivos reunidos em uma única biblioteca, organizados por categorias.
+
+Escolha o que deseja imprimir, prepare o arquivo no seu fatiador e dê vida ao seu próximo projeto.
+
+Menos tempo procurando. Mais possibilidades para imprimir.
+
+QUERO MEU ACERVO STL
+
+Milhares de projetos
+
+ 
+
+para os mais variados nichos de impressão 3D
+
+Decoração, colecionáveis, acessórios gamer, peças articuladas e miniaturas. Encontre os modelos que combinam com seus próximos projetos.
+
+MARKETPLACE
+
+LUMINÁRIAS DECORATIVAS
+
+MARKETPLACE
+
+VEÍCULOS 3D
+
+MARKETPLACE
+
+HERÓIS MARVEL
+
+MARKETPLACE
+
+CHAVEIROS
+
+MARKETPLACE
+
+ARTICULADOS
+
+MARKETPLACE
+
+POKÉMON 3D
+
+MARKETPLACE
+
+COSPLAY / MÁSCARAS
+
+MARKETPLACE
+
+COPA DO MUNDO
+
+MARKETPLACE
+
+MASCOTES ESPORTIVOS
+
+MARKETPLACE
+
+CLÁSSICOS DOS DESENHOS
+
+MARKETPLACE
+
+AMIGURUMI 3D
+
+‹
+
+›
+
+QUERO MEU ACERVO STL
+
+Veja o Acervo Maker STL por dentro
+
+Uma biblioteca organizada para encontrar, baixar e preparar seus próximos projetos de impressão 3D.
+
+Navegação real da área de membros.
+
+QUERO ACESSAR A BIBLIOTECA
+
+Descubra novas possibilidades
+
+ 
+
+para o seu catálogo de impressão 3D
+
+Luminárias, colecionáveis, acessórios e peças decorativas são exemplos de produtos anunciados nos grandes marketplaces.
+
+Para imprimir por hobby ou desenvolver novas linhas de produtos: pesquise, experimente e amplie suas possibilidades.
 
 Pesquise a peça. Prepare o arquivo. Faça o teste.
 
-As referências ilustram produtos e apresentações. As vendas dependem da execução, do preço, da divulgação e da demanda.
+Exemplos de produtos anunciados no mercado. A comercialização depende das licenças dos modelos e das condições de produção e venda.
 
-Quero acessar a biblioteca
+QUERO MEU ACERVO STL
 
-20 coleções bônus incluídas
+20 coleções bônus incluídas no Pro
 
-Mais categorias para explorar.
+E no plano Pro você ainda desbloqueia
 
-Os mesmos 20 bônus nos dois planos.
+ 
+
+20 coleções extras de projetos STL!
 
 Ao escolher seu 
 
-acesso
+plano Pro
 
 , você também recebe 
 
 todos os 
 
+20
+
  bônus abaixo
 
 . Explore cada coleção na área de membros e selecione as peças que deseja acrescentar à sua produção.
 
-Quero acessar a biblioteca
+BÔNUS 
 
-A biblioteca por dentro
+1
 
-Abra a biblioteca. Escolha uma categoria.
+PACK DE VEÍCULOS 3D PROFISSIONAIS
 
-Encontre o modelo que vai para a bancada.
+Mais de 172 veículos, do Fusca ao Mustang, para imprimir sua coleção de miniaturas.
 
-A organização por categorias encurta o caminho entre procurar uma ideia e selecionar o arquivo que você quer preparar para impressão.
+BÔNUS 
 
-Explore por categoria
+2
 
-Comece pelo tipo de peça que você pretende produzir.
+COLEÇÃO HERÓIS DA MARVEL
 
-Escolha e baixe
+Mais de 150 itens entre heróis, filmes e desenhos para dar forma ao seu universo geek.
 
-Localize o modelo na biblioteca e baixe o arquivo para o seu computador.
+BÔNUS 
 
-Prepare sua impressão
+3
 
-Abra no fatiador, ajuste para sua impressora e faça a primeira unidade.
+PACK DE CHAVEIROS RÁPIDOS
 
-Quero acessar a biblioteca
+Mais de 500 chaveiros de times, animais e personagens para suas próximas impressões.
 
-Veja as mensagens sobre
+BÔNUS 
+
+4
+
+MODELOS FLEXÍVEIS E ARTICULADOS
+
+Mais de 1.300 modelos articulados: animais e personagens com movimento.
+
+BÔNUS 
+
+5
+
+COLEÇÃO CLÁSSICOS DOS DESENHOS
+
+Dê vida aos personagens clássicos que marcaram sua infância.
+
+BÔNUS 
+
+6
+
+COSPLAY 3D
+
+Mais de 200 peças e máscaras para imprimir seus projetos de cosplay.
+
+BÔNUS 
+
+7
+
+COLEÇÃO POKÉMON 3D
+
+Mais de 450 modelos para montar sua coleção Pokémon.
+
+BÔNUS 
+
+8
+
+COLEÇÃO 3D DE NATAL
+
+Enfeites para decorar e preparar uma coleção de Natal.
+
+BÔNUS 
+
+9
+
+COLEÇÃO COPA DO MUNDO
+
+Peças temáticas para levar o futebol à sua impressora.
+
+BÔNUS 
+
+10
+
+MASCOTE ESPORTIVO EXCLUSIVOS
+
+Imprima os mascotes dos seus clubes favoritos.
+
+BÔNUS 
+
+11
+
++250 LUMINÁRIAS STL
+
+Mais de 250 luminárias para dar uma nova luz à decoração.
+
+BÔNUS 
+
+12
+
+BICHINHOS AMIGURUMI IMPRESSÃO 3D
+
+Mais de 200 modelos com textura de crochê: bichinhos, personagens e decoração.
+
+BÔNUS 
+
+13
+
+COLEÇÃO LEGO 3D
+
+Minifiguras, blocos gigantes e organizadores inspirados em Lego.
+
+BÔNUS 
+
+14
+
+UNIVERSO MINECRAFT 3D
+
+Personagens, blocos e luminárias para construir seu universo Minecraft.
+
+BÔNUS 
+
+15
+
+CANECAS GAMER 3D
+
+Canecas, copos e suportes com temas gamer e geek.
+
+BÔNUS 
+
+16
+
+CANECAS DE TIMES DE FUTEBOL 3D
+
+Canecas e suportes temáticos para torcedores.
+
+BÔNUS 
+
+17
+
+CANECA ESTILO MOLETOM 3D
+
+Canecas com capuz e textura inspirados em moletom.
+
+BÔNUS 
+
+18
+
+RÉPLICAS DE ESTÁDIOS DE FUTEBOL EM 3D
+
+Maquetes de estádios e arenas para sua coleção.
+
+BÔNUS 
+
+19
+
+PORTA COPOS MONSTER 3D
+
+Porta-copos Monster com detalhes em relevo.
+
+BÔNUS 
+
+20
+
+MODELOS GTA 6 & VICE CITY 3D
+
+Personagens, dioramas e suportes inspirados em GTA 6 e Vice City.
+
+QUERO O ACERVO COM TODOS OS BÔNUS
+
+Do arquivo à impressão em 3 passos
+
+1
+
+Escolha seu modelo
+
+Acesse a biblioteca e encontre o projeto que deseja imprimir.
+
+2
+
+Baixe e prepare
+
+Abra o STL no seu fatiador e configure para sua impressora.
+
+3
+
+Dê vida ao projeto
+
+Envie o arquivo preparado para sua impressora e comece a produzir.
+
+QUERO MEU ACERVO STL
+
+Confira as mensagens sobre
+
+ 
 
 a experiência com a biblioteca.
 
-Confira as mensagens reunidas sobre o acesso e o uso da Central Prime 3D.
+Confira as mensagens reunidas sobre o acesso e o uso da Acervo Maker STL.
 
-Quero acessar a biblioteca
+Depoimento 
 
-Comece por uma peça,
+1
 
-não pelo catálogo inteiro.
+ de 
 
-Você pode conhecer a biblioteca aos poucos, começando pela categoria mais próxima do seu público.
+6
 
-Use esta sequência para tirar o primeiro modelo da pasta:
+QUERO MEU ACERVO STL
 
-Escolha uma categoria para explorar.
+Do arquivo à peça
 
-Selecione uma peça compatível com sua estrutura.
+Esses são apenas alguns dos milhares
 
-Prepare o modelo no seu fatiador.
+ 
 
-Imprima uma unidade e examine o acabamento.
+de projetos disponíveis no acervo
 
-Observe custo, tempo de impressão e interesse do público.
+Colecionáveis, miniaturas e peças úteis: qual será sua próxima impressão?
 
-Amplie a produção do que fizer sentido.
+QUERO MEU ACERVO STL
 
-Uma peça para começar.
+Escolha seu plano e 
 
-Uma biblioteca para continuar.
+comece a imprimir novos projetos
+
+Por apenas R$ 27 a mais que o plano Básico, tenha acesso vitalício e desbloqueie todas as 20 coleções bônus.
+
+Acesso por 3 meses
+
+Plano Básico
+
+Pack de 150 mil STL para explorar durante 3 meses
+
+ACERVO MAKER STL
+
+150 mil
+
+modelos STL
+
+Seu próximo projeto começa aqui · 3 meses
+
+PAGAMENTO ÚNICO
+
+R$
+
+10,00
+
+à vista • Sem mensalidades
+
+✓
+
+Pack com mais de 150 mil STL organizados por categoria
+
+✓
+
+Biblioteca organizada por categorias
+
+✓
+
+Acesso à biblioteca por 3 meses
+
+✓
+
+Garantia de 14 dias
+
+×
+
+Acesso vitalício
+
+×
+
+Bônus 1: Pack de Veículos 3D Profissionais
+
+×
+
+Bônus 2: Coleção Heróis da Marvel
+
+×
+
+Bônus 3: Pack de Chaveiros Rápidos
+
+×
+
+Bônus 4: Modelos Flexíveis e Articulados
+
+×
+
+Bônus 5: Coleção Clássicos dos Desenhos
+
+×
+
+Bônus 6: Cosplay e Máscaras 3D
+
+Itens apagados são exclusivos do Pro.
+
+Ver os 20 bônus exclusivos do Pro
+
+QUERO O PLANO BÁSICO
+
+Pagamento único · Garantia de 14 dias
+
+MELHOR CUSTO-BENEFÍCIO EM ACESSO
+
+Acesso vitalício
+
+Plano Pro Vitalício
+
+A biblioteca completa e 20 bônus incluídos
+
+ACERVO MAKER STL
+
+150 mil
+
+modelos STL
+
+Biblioteca + 20 bônus · Acesso vitalício
+
+PAGAMENTO ÚNICO
+
+R$
+
+37,00
+
+à vista • Sem mensalidades
+
+✓
+
+Mais de 150 mil STL organizados por categoria
+
+✓
+
+Acesso vitalício para explorar no seu ritmo
+
+✓
+
+Coleções de diferentes nichos para o seu catálogo
+
+✓
+
+Download dos modelos pela biblioteca online
+
+✓
+
+Bônus 1: Pack de Veículos 3D Profissionais
+
+✓
+
+Bônus 2: Coleção Heróis da Marvel
+
+✓
+
+Bônus 3: Pack de Chaveiros Rápidos
+
+✓
+
+Bônus 4: Modelos Flexíveis e Articulados
+
+✓
+
+Bônus 5: Coleção Clássicos dos Desenhos
+
+✓
+
+Bônus 6: Cosplay e Máscaras 3D
+
+✓
+
+14 dias de garantia para conhecer o conteúdo
+
+Ver todos os 20 bônus inclusos
+
+QUERO MEU ACESSO VITALÍCIO
+
+Pagamento único · Garantia de 14 dias
+
+Compra indisponível no momento
+
+Tente novamente em breve.
+
+Voltar aos planos
 
 Tempo para conhecer o conteúdo
 
-Explore com a garantia de
+Você tem 14 dias para conhecer
 
-14 dias.
+ 
 
- para conhecer a Central Prime 3D™, explorar as categorias, baixar os arquivos e testar os modelos na sua impressora.
+o Acervo Maker STL
+
+Você tem 
+
+14 dias completos
+
+ para explorar as categorias, baixar os arquivos e conhecer os modelos disponíveis.
 
 Se a biblioteca não fizer sentido para você, solicite o reembolso pela plataforma dentro desse prazo e receba 
+
+100% do seu investimento
 
  de volta.
 
@@ -164,17 +720,9 @@ Se a biblioteca não fizer sentido para você, solicite o reembolso pela platafo
 
 ✓ Devolução integral
 
-Sua próxima peça pode começar
+Antes de começar, 
 
-com uma escolha hoje.
-
-Descubra uma biblioteca de STL que amplia seu catálogo de impressão 3D, sem precisar modelar cada peça do zero.
-
-Quero acessar a biblioteca
-
-Acesso vitalício · Garantia de 14 dias
-
-© Central Prime 3D™. Todos os direitos reservados.
+tire suas dúvidas.
 
 Posso vender as peças que imprimir?
 
@@ -194,46 +742,42 @@ O acesso é feito pela biblioteca online, organizada por categorias. Você escol
 
 Quando recebo meu acesso?
 
-O acesso é liberado após a confirmação do pagamento. Os planos Básico e Pro incluem os mesmos modelos, os 20 bônus e acesso vitalício.
+O acesso é liberado após a confirmação do pagamento. O Básico inclui o pack de 150 mil STL com acesso por 3 meses. O Pro inclui acesso vitalício à biblioteca e os 20 bônus.
 
-## Bônus
+O que diferencia o Básico do Pro?
 
-Mais de 172 veículos, do Fusca ao Mustang, para explorar miniaturas e compor uma linha de colecionáveis.
+O Básico custa R$ 10 e oferece 3 meses de acesso ao pack principal. O Pro custa R$ 37, oferece acesso vitalício e inclui os 20 bônus.
 
-Mais de 150 itens entre heróis, filmes e desenhos para selecionar as figuras que combinam com o seu catálogo geek.
+Existe alguma mensalidade?
 
-Mais de 500 modelos de chaveiros de times, animais e personagens para testar uma linha de peças pequenas.
+Não. Os dois planos têm pagamento único. O prazo de acesso depende do plano escolhido.
 
-Mais de 1.300 modelos articulados. Explore animais e personagens com movimento para ampliar suas opções de impressão.
+Os arquivos são compatíveis com minha impressora?
 
-Personagens clássicos para montar uma coleção temática e explorar o apelo da nostalgia nas suas peças.
+Confira as dimensões e os requisitos de cada modelo. Os arquivos precisam ser preparados no fatiador com configurações adequadas à impressora e ao material.
 
-Mais de 200 peças e máscaras para projetos de cosplay ou decoração. Escolha o modelo e planeje a impressão por tamanho.
+Preciso de algum programa específico?
 
-Mais de 450 modelos para selecionar personagens e criar uma coleção voltada aos fãs de Pokémon.
+Você precisa de um fatiador compatível com sua impressora para preparar os arquivos STL.
 
-Decorações de fim de ano para planejar uma coleção sazonal e variar o catálogo conforme a época.
+Receberei arquivos digitais ou peças físicas?
 
-Modelos com tema de Copa do Mundo para desenvolver peças ligadas ao universo do futebol.
+Você recebe acesso a arquivos digitais. Impressora, materiais e peças físicas não estão incluídos.
 
-Mascotes de clubes como Cruzeiro, Palmeiras, Santos e São Paulo para explorar coleções por time.
+Como funciona a garantia?
 
-Mais de 250 modelos de luminárias para acrescentar peças com luz ao seu catálogo de decoração.
+Você tem 14 dias para conhecer o conteúdo. Para pedir reembolso integral, faça a solicitação pela plataforma dentro desse prazo.
 
-Mais de 200 itens com textura de crochê 3D para explorar bichinhos, personagens, chaveiros e decoração.
+Sua próxima grande criação começa
 
-Minifiguras, blocos gigantes e organizadores inspirados em Lego para compor coleções ou acessórios de mesa.
+ 
 
-Personagens, ferramentas, blocos e luminárias do universo Minecraft para montar uma linha de peças temáticas.
+no Acervo Maker STL
 
-Modelos de canecas, copos e suportes com temas gamer e geek para desenvolver opções de presentes.
+Mais de 150 mil arquivos, milhares de possibilidades e 20 coleções extras no plano Pro. Tudo para aproveitar ainda mais sua impressora 3D.
 
-Canecas, copos e suportes temáticos para organizar uma linha dedicada aos torcedores de diferentes clubes.
+QUERO MEU ACERVO STL
 
-Canecas com detalhes de moletom, capuz e textura para acrescentar uma apresentação diferente à sua coleção.
+A partir de R$ 10,00 • Pagamento único • Garantia de 14 dias.
 
-Maquetes de estádios e arenas para explorar peças de decoração voltadas aos fãs de futebol.
-
-Porta-copos com tema Monster e detalhes em relevo para testar uma nova linha de acessórios.
-
-Personagens, dioramas e suportes gamer inspirados em GTA 6 e Vice City para compor uma coleção temática.
+© Acervo Maker STL. Todos os direitos reservados.

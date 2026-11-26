@@ -1,0 +1,9 @@
+import fs from 'node:fs';import vm from 'node:vm';import {hero} from './src/content.js';
+const React={useState:v=>[typeof v==='function'?v():v,()=>{}],useRef:()=>({current:null}),useEffect:()=>{},useLayoutEffect:()=>{},useMemo:f=>f(),useCallback:f=>f,memo:f=>f,StrictMode:({children})=>children};
+const jsx=(type,props)=>typeof type==='function'?type(props||{}):({type,props});let rendered;
+const ctx={URL,Intl,window:{PAGE_CONFIG:{}},document:{getElementById:()=>({})},assetBase:new URL('file:///assets/'),runtime:{r:React,j:{jsx,jsxs:jsx},R:React,c:{createRoot:()=>({render:v=>rendered=v})}},console};vm.createContext(ctx);
+let c=fs.readFileSync('dist/assets/custom-components.js','utf8').replace(/^import .*?;\r?\n/,'const {r:React,j:jsx}=runtime;\n').replace("import {hero} from '../../src/content.js';",`const hero=${JSON.stringify(hero)};`).replaceAll('export function ','function ');
+let app=fs.readFileSync('dist/assets/app.js','utf8').replace(/^import .*?;\r?\n/,'').replace('import{r as x,j as e,R as D,c as M}from"./vendor-react-WHN_XIgS.js";','const {r:x,j:e,R:D,c:M}=runtime;').replace(/export\{j as B,O as C,y as t\};?\s*$/,'');
+try{vm.runInContext(c+'\n'+app,ctx)}catch(err){console.log(err.message);process.exit(1)}
+const ids=[],texts=[],images=[];function walk(v){if(v==null||v===false)return;if(Array.isArray(v)){v.forEach(walk);return}if(typeof v==='string'||typeof v==='number'){texts.push(String(v));return}if(v.props){if(v.props.id)ids.push(v.props.id);if(v.type==='img')images.push(v.props.src);walk(v.props.children)}}walk(rendered);
+console.log('SEÇÕES',ids.join(','));console.log('IMAGENS',images.length);fs.writeFileSync('pagina-de-vendas/03-copy-completa.md',texts.join('\n\n'));if(ids.includes('objecao')||!ids.includes('como-funciona'))throw Error('Seções incorretas');if(!texts.includes('QUERO MEU ACESSO VITALÍCIO'))throw Error('CTA ausente');

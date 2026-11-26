@@ -1,0 +1,5 @@
+CRO aplicado conforme guia do usuário. Princípios demonstrativos da CopyPro, Fernando Oliveira.
+
+Validações: build, sintaxe JS, renderização da árvore React com hooks simulados, ordem das seções, CTA Pro, 206 ocorrências de imagens. Head preservado byte a byte; config.js e links preservados. 82 imagens originais conferidas por SHA256.
+
+Pendências: a captura real disponível mostra apenas navegação. Ainda faltam capturas de categoria, download e fatiador; nenhum vídeo ou tela foi inventado. Autorização dos depoimentos existentes não foi confirmada nesta tarefa. Prévia visual no navegador indisponível por timeout local; CSS responsivo implementado, sem alegar validação visual mobile. Não houve publicação.

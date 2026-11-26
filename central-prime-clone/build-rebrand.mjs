@@ -1,3 +1,4 @@
+import {optimizeCro} from './src/cro-transform.mjs';
 import fs from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import {spawnSync} from 'node:child_process';
@@ -62,6 +63,7 @@ for(const image of selectedImages){
   await fs.access(new URL(image.file,assets));
   replaceRequired(JSON.stringify('/assets/'+image.original),JSON.stringify('/assets/'+image.file));
 }
+app=optimizeCro(app);
 await fs.writeFile(new URL('app.js',assets),app);
 const originalCss=await fs.readFile(new URL('reference/original.css',project),'utf8');
 await fs.writeFile(new URL('original.css',assets),theme(originalCss));

@@ -23,7 +23,7 @@ app = app.replace(/^import .*?;\r?\n/, '')
 
 const bundle = `/* Local preview: open index.html directly in your browser. */\n(function(){\n'use strict';\nconst assetBase=new URL('./',document.currentScript.src);\nconst runtime=(function(){${runtime}\n})();\nconst components=(function(){${components}\nreturn {PricePlans,VideoSlot,AccessibleFaq,RefreshedHero};\n})();\n(function(){${app}\n})();\n})();\n`;
 if (/\bimport\s*\(|\bimport\s*\{|\bexport\s*\{/.test(bundle)) throw new Error('Ainda há módulos no bundle local.');
-await fs.writeFile(new URL('page.bundle.js', assets), bundle);
+await fs.writeFile(new URL('page.bundle.js', assets), bundle + '\n' + await fs.readFile(new URL('src/cro-enhancements.js',project),'utf8'));
 
 let html = await fs.readFile(new URL('dist/index.html', project), 'utf8');
 html = html.replace('<script type="module" src="./assets/app.js"></script>', '<script defer src="./assets/page.bundle.js"></script>');
